@@ -1,0 +1,28 @@
+.container {
+    height: 10rem;
+    margin-left: 2rem;
+    display: flex;
+}
+
+.image_container {
+    width: 400px;
+    height: 0px;
+    justify-content: center;
+    position: relative;
+    top: -2em;
+}
+
+.form_container {
+    width: 500px;
+    height: 0px;
+    justify-content: left;
+}
+
+#result {
+
+}
+
+
+/* h1 {
+    float: center;
+} */
