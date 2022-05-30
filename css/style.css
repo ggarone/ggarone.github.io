@@ -1,9 +1,4 @@
-.card {
-    display: inline-block;
-    border: 0.1rem solid black;
-    /* width: 19rem;
-    height: 31rem; */
-    padding: 0.5rem;
-
+.w-10{
+    width: 10%;
 }
 
